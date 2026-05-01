@@ -1,2 +1,3 @@
-# programming-fundamentals-1
-Respository for Programming Fundamentals 1 assignments
+Name: Logan Hilderbrand
+Course: Programming Fundamentals 1
+Semester: Spring 2026
